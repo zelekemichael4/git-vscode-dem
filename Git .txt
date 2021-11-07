@@ -1,0 +1,9 @@
+//* How to create your own local Git repo *//
+
+    - Initialize Repository (click)
+    - Open the Terminal (git init "create the project name")
+
+//* Master branch *//
+
+    - Create file (readme.md)
+
