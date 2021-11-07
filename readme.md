@@ -3,4 +3,4 @@
 second commit
 another line
 Thread commit
-I see three commit
+I see
